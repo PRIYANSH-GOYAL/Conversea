@@ -11,5 +11,4 @@ server.post("/login", (req, res) => {});
 
 server.listen(PORT, () => {
   console.log("http://localhost:" + PORT);
-  heljvkldsjlk;
 });
